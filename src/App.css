@@ -250,121 +250,26 @@ body, .body {
 }
 
 /* projects */
-
-
-.card-link {
-  
-  color: var(--link-color);
-  transition: opacity 0.2s;
-  margin: 2px 6px;
-}
-
-.card-link:hover {
-  color: var(--link-color);
-}
-
-.card-link+.card-link {
-  margin-left: 1.25rem;
-}
-
-.flex-col .card-link+.card-link {
-  margin-left: 6px;
-}
-
-.card-link:hover {
-  opacity: 0.5;
-}
-
-.card-wrapper  {
- 
-  
-  height: 100%;
-  border-radius: 0;
-  box-shadow: 0 3px 5px var(--background-color-one);
-}
-.card {
-  
-
-  
- /* background-color: rgb(69, 69, 75); */
- background:url('./assets/white.jpeg');
-
-  height: 100%;
-  border-radius: 8px;
-  border-style:groove;
-  border-color: initial;
- 
-
-  
-  box-shadow: 0 3px 5px var(--background-color-one);
-}
-.card-title {
-  
-  background-image: linear-gradient(90deg, #ceccc9 89%, #94c0cf 100%);
-  animation:slidebg 5s linear infinite;
-  font-weight: 600;
-  color:black;
-  text-decoration: lightgray;
-  font-weight: 900;
-}
-.card-body {
+.projectscontainer{
+  margin-top: 30px;
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  background-color: black;
-}
+  flex-direction: row;
 
-.highlight, .description {
-  font-weight: bold;
   
-  font-style: italic;
-  
-}
 
-.description {
-  color: var(--text-color-three);
-}
-
-.card-wrapper {
-  
+} 
+.people{
   margin-bottom: 20px;
   position: relative;
   margin-left: -10px;
   margin-right: -10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-@media only screen and (min-width: 768px) {
-  .card-img-top {
-    height: 220px;
-    object-fit: cover;
-  
-  }
-  .card-wrapper {
-    
-     
 
-    
-    max-width: 33.333333%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-left: 0;
-    margin-right: 0;
-    width: 100%;
-  }
-}
-
-.collapsed {
- 
-   
-    
-  max-height: 0;
-  overflow-y: hidden;
-  transition: max-height 0.5s;
-}
-
-.collapsed.active {
-  max-height: 500px;
-}
 
 /* articles */
 
@@ -428,7 +333,17 @@ body, .body {
   background-color:rgb(15, 11, 11);
   
 }
-projects-container{
-  display:flex;
 
+.articles{
+  background-color: rgb(16, 20, 16);
+  
+    
+    
+
+}
+.contactcard{
+  background-color: hotpink;
+}
+.card-link{
+  
 }

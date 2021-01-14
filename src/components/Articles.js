@@ -9,7 +9,7 @@ export default function Articles() {
     useEffect(() => {
         async function getFeed() {
             let parser = new Parser();
-            const rss = await parser.parseURL('https://cors-anywhere.herokuapp.com/https://medium.com/feed/@huishun98');
+            const rss = await parser.parseURL('https://cors-anywhere.herokuapp.com/https://medium.com/feed/@ravinsher-singh726');
             console.log(rss.items)
             setArticles(rss.items)
         }

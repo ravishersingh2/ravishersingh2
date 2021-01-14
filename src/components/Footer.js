@@ -11,7 +11,6 @@ export default function Footer() {
         <div>
             <div className="line"></div>
             <div className="footer">
-                
                 © {defaultYear()} Ravisher Singh
         </div>
         </div>

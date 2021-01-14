@@ -19,8 +19,8 @@ const projects=[
     },
 
     {
-        title: 'Pictures Search Application ',
-        description: 'This project is my first project playing around with Web APIs and learn how to access data.',
+        title: 'Youtube Video Search ',
+        description: 'This project is my first project playing around with Web APIs',
         more: 'Built using React.js(Javascript) and Axios(WebAPI) ',
         stack: ['React','Axios','WebAPI' ],
         imgName: 'singh.jpeg',

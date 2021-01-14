@@ -1,9 +1,10 @@
 import React from 'react';
-export default function Articles(){
-    return(
-        <div className= "articles container-fluid section">
-            <h2 className = "section-header" >CONTACT</h2>
-            <p>Contact me at <a href="mailto:ravisher.singh@ucdenver.edu" className="card-link">ravisher.singh@ucdenver.edu</a> </p>
+
+export default function Articles() {
+    return (
+        <div className="articles container-fluid section">
+            <h2 className="section-header">CONTACT</h2>
+            <p>Hit me up at <a href="mailto:huishun98@gmail.com" className="card-link">ravinsher.singh726@gmail.com</a> to enquire about collaboration or if you just need someone to talk to.</p>
         </div>
     )
 }
