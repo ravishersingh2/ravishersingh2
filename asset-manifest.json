@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.e6a1be6f.chunk.js",
-    "main.js.map": "/static/js/main.e6a1be6f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2fd2d3f7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2fd2d3f7.js.map",
-    "static/js/2.3f405b8f.chunk.js": "/static/js/2.3f405b8f.chunk.js",
-    "static/js/2.3f405b8f.chunk.js.map": "/static/js/2.3f405b8f.chunk.js.map",
-    "static/js/3.b432412d.chunk.js": "/static/js/3.b432412d.chunk.js",
-    "static/js/3.b432412d.chunk.js.map": "/static/js/3.b432412d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3f405b8f.chunk.js.LICENSE.txt": "/static/js/2.3f405b8f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/ravishersingh2/static/css/main.e26fbd85.chunk.css",
+    "main.js": "/ravishersingh2/static/js/main.37bc101b.chunk.js",
+    "main.js.map": "/ravishersingh2/static/js/main.37bc101b.chunk.js.map",
+    "runtime-main.js": "/ravishersingh2/static/js/runtime-main.febe5493.js",
+    "runtime-main.js.map": "/ravishersingh2/static/js/runtime-main.febe5493.js.map",
+    "static/js/2.dd7734fc.chunk.js": "/ravishersingh2/static/js/2.dd7734fc.chunk.js",
+    "static/js/2.dd7734fc.chunk.js.map": "/ravishersingh2/static/js/2.dd7734fc.chunk.js.map",
+    "static/js/3.106d957b.chunk.js": "/ravishersingh2/static/js/3.106d957b.chunk.js",
+    "static/js/3.106d957b.chunk.js.map": "/ravishersingh2/static/js/3.106d957b.chunk.js.map",
+    "index.html": "/ravishersingh2/index.html",
+    "static/css/main.e26fbd85.chunk.css.map": "/ravishersingh2/static/css/main.e26fbd85.chunk.css.map",
+    "static/js/2.dd7734fc.chunk.js.LICENSE.txt": "/ravishersingh2/static/js/2.dd7734fc.chunk.js.LICENSE.txt",
+    "static/media/capture.jpeg": "/ravishersingh2/static/media/capture.75c2e3bd.jpeg",
+    "static/media/developer.jpeg": "/ravishersingh2/static/media/developer.7d0aca5d.jpeg",
+    "static/media/portfolio.png": "/ravishersingh2/static/media/portfolio.b62a9f24.png",
+    "static/media/portfolio.gif": "/ravishersingh2/static/media/portfolio.d9d0ec41.gif",
+    "static/media/resume.pdf": "/ravishersingh2/static/media/resume.e6b40f9e.pdf",
+    "static/media/singh.jpeg": "/ravishersingh2/static/media/singh.7c82074f.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fd2d3f7.js",
-    "static/js/2.3f405b8f.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e6a1be6f.chunk.js"
+    "static/js/runtime-main.febe5493.js",
+    "static/js/2.dd7734fc.chunk.js",
+    "static/css/main.e26fbd85.chunk.css",
+    "static/js/main.37bc101b.chunk.js"
   ]
 }
