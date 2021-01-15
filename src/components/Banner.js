@@ -40,7 +40,7 @@ export default function Banner() {
                         </svg>
                     </a>
                     <a
-                        href="https://www.linkedin.com/in/ravishersingh1/"
+                        href="https://www.linkedin.com/in/ravisher-singh/"
                         target="_blank" rel="noopener noreferrer"
                         className="svg-link"
                         title="LinkedIn"
