@@ -1,9 +1,11 @@
 
 ### I am student at University of Colorado Denver, currently looking for part time positions as Software Development Intern 👋.
 ⚡ My Skillset :
-      Languages:C++, Python(pandas, scipy), and Javascript.
-      Testing: Matcha-chai,Postman(WebAPI Testing)
-      Other: Linux, Elasticsearch/Kibana,Nutch.
+   Languages:C++, Python(pandas, scipy), and Javascript.
+      
+   Testing: Matcha-chai,Postman(WebAPI Testing)
+      
+   Other: Linux, Elasticsearch/Kibana,Nutch.
        
 #### Full Stack
   ![React](https://img.shields.io/badge/-React-222?&logo=React)
