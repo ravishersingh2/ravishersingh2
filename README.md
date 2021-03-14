@@ -2,9 +2,6 @@
 ### I am student at University of Colorado Denver, currently looking for part time positions as Software Development Intern 👋.
 
 
-- 🔭 I’m currently working on mastering problem solving and algorithms.
-- 🌱 I’m currently enrolled in Algorithms, Database Design, Web API and Computer Networks .
-- 📫 How to reach me: ravinsher.singh@ucdenver.edu
 - ⚡ My Skillset :
       Languages:C++, Python(pandas, scipy), and Javascript.
       Testing: Matcha-chai,Postman(WebAPI Testing)
@@ -24,6 +21,12 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222?&logo=heroku&logoColor=645FA1)
 ![Git](https://img.shields.io/badge/-Git-222?&logo=git&logoColor=E94D2E)
 ![Docker](https://img.shields.io/badge/-Docker-222?&logo=docker&logoColor=0DB7ED)
+
+
+
+- 🔭 I’m currently working on mastering problem solving and algorithms.
+- 🌱 I’m currently enrolled in Algorithms, Database Design, Web API and Computer Networks .
+- 📫 How to reach me: ravinsher.singh@ucdenver.edu
 
 <br />
 
