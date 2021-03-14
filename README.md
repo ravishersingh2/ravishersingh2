@@ -1,27 +1,20 @@
 
 ### I am student at University of Colorado Denver, currently looking for part time positions as Software Development Intern 👋.
-
-
-- ⚡ My Skillset :
+⚡ My Skillset :
       Languages:C++, Python(pandas, scipy), and Javascript.
       Testing: Matcha-chai,Postman(WebAPI Testing)
       Other: Linux, Elasticsearch/Kibana,Nutch.
        
-  #### Full Stack
-  
-![React](https://img.shields.io/badge/-React-222?&logo=React)
+#### Full Stack
+  ![React](https://img.shields.io/badge/-React-222?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-222?&logo=node.js)
-
-
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222?&logo=mongodb&logoColor=4db33d)
 ![Firebase](https://img.shields.io/badge/-Firebase-222?&logo=firebase&logoColor=FFCB2B)
-
 #### Deployment
 ![Heroku](https://img.shields.io/badge/-Heroku-222?&logo=heroku&logoColor=645FA1)
 ![Git](https://img.shields.io/badge/-Git-222?&logo=git&logoColor=E94D2E)
 ![Docker](https://img.shields.io/badge/-Docker-222?&logo=docker&logoColor=0DB7ED)
-
 
 
 - 🔭 I’m currently working on mastering problem solving and algorithms.
