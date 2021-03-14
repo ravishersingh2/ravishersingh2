@@ -7,13 +7,26 @@
 - 📫 How to reach me: ravinsher.singh@ucdenver.edu
 - ⚡ My Skillset :
       Languages:C++, Python(pandas, scipy), and Javascript.
-       Frontend: React,HTML,CSS.
-       Backend:  Express Node.js
-       Database: MySQL
-       Deployment:Heroku,Github Pages
+   
        Testing: Matcha-chai,Postman(WebAPI Testing)
        Version control : Git.
        Other: Linux, Elasticsearch/Kibana,Nutch.
+       #### Full Stack
+![React](https://img.shields.io/badge/-React-222?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-222?&logo=node.js)
+
+
+#### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-222?&logo=mongodb&logoColor=4db33d)
+![Firebase](https://img.shields.io/badge/-Firebase-222?&logo=firebase&logoColor=FFCB2B)
+
+#### Deployment
+![Heroku](https://img.shields.io/badge/-Heroku-222?&logo=heroku&logoColor=645FA1)
+![Git](https://img.shields.io/badge/-Git-222?&logo=git&logoColor=E94D2E)
+![Docker](https://img.shields.io/badge/-Docker-222?&logo=docker&logoColor=0DB7ED)
+
+<br />
+
        
  <img src= "https://github-readme-stats.vercel.app/api?username=ravishersingh2&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
      
