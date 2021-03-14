@@ -7,11 +7,11 @@
 - 📫 How to reach me: ravinsher.singh@ucdenver.edu
 - ⚡ My Skillset :
       Languages:C++, Python(pandas, scipy), and Javascript.
-   
-       Testing: Matcha-chai,Postman(WebAPI Testing)
-       Version control : Git.
-       Other: Linux, Elasticsearch/Kibana,Nutch.
-       #### Full Stack
+      Testing: Matcha-chai,Postman(WebAPI Testing)
+      Other: Linux, Elasticsearch/Kibana,Nutch.
+       
+  #### Full Stack
+  
 ![React](https://img.shields.io/badge/-React-222?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-222?&logo=node.js)
 
