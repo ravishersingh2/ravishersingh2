@@ -1,6 +1,7 @@
 
 ### I am student at University of Colorado Denver, currently looking for part time positions as Software Development Intern 👋.
-⚡ My Skillset :
+ My Skillset :
+ 
    Languages:C++, Python(pandas, scipy), and Javascript.
       
    Testing: Matcha-chai,Postman(WebAPI Testing)
