@@ -1,5 +1,5 @@
 
-### I am student at University of Colorado Denver, currently looking for part time positions as Software Development Intern 👋.
+### I am student at University of Colorado Denver, currently looking for fall 2021 co op opportunities remote/Denver based 👋.
  My Skillset :
  
    Languages:C++, Python(pandas, scipy), and Javascript.
